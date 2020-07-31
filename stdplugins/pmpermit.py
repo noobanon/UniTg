@@ -17,8 +17,8 @@ borg.storage.PREV_REPLY_MESSAGE = {}
 
 BAALAJI_TG_USER_BOT = "First of all i don't know who are you."
 TG_COMPANION_USER_BOT = "Second you are not eligible to pm."
-UNIBORG_USER_BOT_WARN_ZERO = "Currently i am mostly offline person."
-UNIBORG_USER_BOT_NO_WARN = "So if you can give me a girlfriend then i will reply this message or GTFO"
+UNIBORG_USER_BOT_WARN_ZERO = "Nikal Lavde Bhaag Bsdka Maderchod."
+UNIBORG_USER_BOT_NO_WARN = "My Owner is Not There If You Are Hater then Bhaag Maderchod Bhosdike If You Are Friend Kindly Wait 🥀"
 
 
 @borg.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))
